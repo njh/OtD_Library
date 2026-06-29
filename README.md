@@ -8,7 +8,7 @@ OtD library is designed to work with [OtomaDUINO](https://www.dgrtek.com/en/othe
   <strong>OtD Library Overview:</strong>
 </p>
 
-![OtD 1 Block Diagram](https://www.dgrtek.com/images/en/otd%20-%20arduino%20lib%20api%20-%20color.png)
+![OtD 1 Block Diagram](https://www.dgrtek.com/images/en/OtD-1%20System%20Desc%20-%20EN.png)
 
 For installation and usage please check out [OtomaDUINO Users Manual](https://www.dgrtek.com/docs/en/OtD%20User%20Manual%20EN%20web.pdf)
 
